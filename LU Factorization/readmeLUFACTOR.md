@@ -1,1 +1,1 @@
-# MATLAB---Applied-Numerical-Methods
+LU Factorization with Patrial Pivoting
