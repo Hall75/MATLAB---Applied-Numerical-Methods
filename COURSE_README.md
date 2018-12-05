@@ -2,9 +2,7 @@
 # MATLAB---Applied-Numerical-Methods
 ## MECH 105
 
-### Professor: Dr Samuel Bechara
-### Fall 2018
-### Colorado State University
+### Professor: Dr Samuel Bechara | Fall 2018 | Colorado State University
 
 This repository contains written MATLAB code from the MECH 105 course attended in Fall 2018 at CSU.
 
