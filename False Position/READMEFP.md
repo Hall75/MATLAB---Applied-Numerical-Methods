@@ -1,3 +1,2 @@
-# MATLAB---Applied-Numerical-Methods
-awesome
-cool beans
+False Position Algorithm
+# created in MATLAB
